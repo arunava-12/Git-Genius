@@ -44,7 +44,7 @@ We're always working to make Git-Genius even better. Upcoming features include:
 - [ ] **GitHub Activity Dashboard**: Visualize your GitHub activity and stats.
 - [ ] **Badges in README**: Easily add badges like <img src="https://img.shields.io/badge/badges-like-this.svg" alt="Status">.
 - [ ] **Star History**: View your repository's star history over time.
-- [ ] 
+
 
 <a href="https://www.star-history.com/#arunava-12/Git-Genius&Timeline">
  <picture>
