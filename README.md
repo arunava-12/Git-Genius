@@ -1,22 +1,11 @@
-# Gut-Genius <p align="center">
-  <a href="https://www.producthunt.com/posts/Gut-Genius?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-git&#0045;friend" target="_blank">
-    <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=966948&theme=light&t=1747547874485" alt="Git Genius - Make git simple again | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
-  </a>
-</p>
-
+# Git-Genius 
 <!-- <p align="center">
-  <a href="https://www.producthunt.com/posts/Gut-Genius?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-git&#0045;friend" target="_blank">
-    <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=966948&theme=light&t=1747547874485" alt="Git Genius - Make git simple again | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
-  </a>
-</p> -->
-
-<p align="center">
   <img src="public/image.jpg" >
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-success.svg" alt="Status">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
-</p>
+</p> -->
 
 
 Welcome to GitFriend! 🎉
