@@ -1,4 +1,5 @@
-# Git-Genius 
+# Git-Genius
+
 <!-- <p align="center">
   <img src="public/image.jpg" >
 </p>
@@ -7,100 +8,95 @@
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
 </p> -->
 
-
-Welcome to GitFriend! 🎉
-Your AI-powered GitHub assistant, designed to make managing your repositories easier and more efficient than ever before.
+Welcome to **Git-Genius**! 🎉
+Your AI-powered GitHub assistant, designed to make managing your repositories easier, smarter, and more efficient than ever before.
 
 
 ## About 📚
 
-### About GitFriend 📚  
-GitFriend is a cutting-edge tool built with React, TypeScript, and AI technology to enhance your GitHub experience. Whether you're a developer, project manager, or beginner, GitFriend helps you navigate GitHub with ease, offering features that save you time and improve productivity.
+**Git-Genius** is a next-generation tool built with React, TypeScript, and AI to supercharge your GitHub workflow. Whether you're a developer, project manager, or just starting out, Git-Genius helps you navigate GitHub with ease, offering features that save you time and boost productivity.
 
-With GitFriend, you can access a variety of powerful tools right at your fingertips:  
-- **AI Chat for GitHub Help**: Encountering issues or need guidance? Chat with GitFriend's AI to resolve errors or learn Git and GitHub concepts quickly.  
-- **Dynamic README Generation**: Automatically generate customized README files for your repositories with just a few clicks.  
-- **Commit Emojis**: Add fun and meaningful emojis to your Git commits to improve readability and make your commit history stand out.
+With Git-Genius, you get:
+- **AI Chat for GitHub Help**: Instantly resolve errors or learn Git/GitHub concepts with our AI chat assistant.
+- **Dynamic README Generation**: Create custom, professional README files for your repositories in seconds.
+- **Commit Emojis (Gitmoji)**: Add expressive emojis to your commits for clarity and fun.
 
-GitFriend simplifies your GitHub workflows and allows you to focus on what matters most: your projects.
+Git-Genius streamlines your GitHub experience so you can focus on what matters most: building great projects.
 
 ## Current Features 🚀
 
-- **Google Authentication**: Securely log in using your Google account to access all features.
-- **AI Chat Integration**: Get assistance with Git commands, project setup, and more through our integrated AI chat.
-- **README Generation**: Automatically generate professional READMEs for your projects with customizable templates.
-- **Gitmoji Support**: Easily add expressive emojis to your commit messages following the Gitmoji convention.
-- **Repository Visualizer**: Visualize any public GitHub repository's structure with interactive 3D graphs and detailed statistics.
-- **User-friendly Interface**: Intuitive UI that makes navigation and usage a breeze.
-- **React Components**: Utilizes various React components for interactive and responsive user experience.
+- **Google Authentication**: Securely log in with your Google account to unlock all features.
+- **AI Chat Integration**: Get real-time help with Git commands, project setup, and more.
+- **README Generator**: Generate professional, customizable READMEs for your projects.
+- **Gitmoji Support**: Add semantic, expressive emojis to your commit messages.
+- **Repository Visualizer**: Explore any public GitHub repository with interactive 3D graphs and detailed stats.
+- **User-Friendly Interface**: Modern, intuitive UI for seamless navigation.
+- **React Components**: Built with reusable, interactive React components for a responsive experience.
 
 ## 🗺️ Roadmap
 
-We're constantly working to improve Gut-Genius. Here are some features we're planning to add:
+We're always working to make Git-Genius even better. Upcoming features include:
 
-- [ ] **GitHub OAuth Integration**: Connect directly to your GitHub account to access repositories and more.
-- [ ] **One-Click README Updates**: Push generated READMEs directly to your repositories without leaving the app.
-- [ ] **Enhanced README Customization**: Add badges, images, and custom sections to your READMEs.
-- [ ] **Custom Prompt Templates**: Save and reuse custom prompts for AI-generated content.
-- [ ] **GitHub Activity Dashboard**: Track and visualize your GitHub activity.
-- [ ] **Badges In readme**: there will be   <img src="https://img.shields.io/badge/badges-like-this.svg" alt="Status"> this 
-- [ ] **Star History** : Github repo star history 
-<!-- 
-<a href="https://www.star-history.com/#arunava-12/Gut-Genius&Timeline">
+- [ ] **GitHub OAuth Integration**: Connect directly to your GitHub account for enhanced access.
+- [ ] **One-Click README Updates**: Push generated READMEs straight to your repositories.
+- [ ] **Enhanced README Customization**: Add badges, images, and custom sections.
+- [ ] **Custom Prompt Templates**: Save and reuse your favorite AI prompts.
+- [ ] **GitHub Activity Dashboard**: Visualize your GitHub activity and stats.
+- [ ] **Badges in README**: Easily add badges like <img src="https://img.shields.io/badge/badges-like-this.svg" alt="Status">.
+- [ ] **Star History**: View your repository's star history over time.
+- [ ] 
+
+<a href="https://www.star-history.com/#arunava-12/Git-Genius&Timeline">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=arunava-12/Gut-Genius&type=Timeline&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=arunava-12/Gut-Genius&type=Timeline" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=arunava-12/Gut-Genius&type=Timeline" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=arunava-12/Git-Genius&type=Timeline&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=arunava-12/Git-Genius&type=Timeline" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=arunava-12/Git-Genius&type=Timeline" />
  </picture>
-</a> -->
+</a>
 .
 
 ## Tech Stack 💻
 
-- **Programming Languages**: TypeScript, CSS, JavaScript
+- **Languages**: TypeScript, JavaScript, CSS
 - **Frameworks/Libraries**: React, Next.js, Octokit, Radix UI, Firebase, TailwindCSS
-- **Development Tools**: Node, npm, TypeScript
+- **Dev Tools**: Node.js, npm, TypeScript
 - **AI Integration**: Groq
 
 ## Getting Started 🛠️
 
 ### Prerequisites
 
-Before you can run Gut-Genius on your local machine, make sure you have:
+Before running Git-Genius locally, ensure you have:
 - Node.js (v16 or later)
 - npm (v8 or later)
 - A Google account for authentication
-- Various API keys (see environment setup below)
+- Required API keys (see environment setup below)
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 ```bash
-git clone https://github.com/arunava-12/Gut-Genius.git
+git clone https://github.com/arunava-12/Git-Genius.git
 ```
-
-2. Navigate into the project directory:
+2. **Navigate to the project directory:**
 ```bash
-cd Gut-Genius
+cd Git-Genius
 ```
-
-3. Install the dependencies:
+3. **Install dependencies:**
 ```bash
 npm install
-
 ```
-> ⚠️ **Note:** If you encounter dependency errors during installation, try running the following command:
->
+> ⚠️ If you encounter dependency errors, try:
 > ```bash
 > npm install --legacy-peer-deps
 > ```
 
 ## 4 🔐 Environment Variables Setup
 
-Before running Gut-Genius locally, make sure to configure the following environment variables in a `.env.local` file at the root of your project:
+Create a `.env.local` file in your project root and add the following:
 
 <details>
-<summary> 🔥 Firebase Configuration</summary>
+<summary>🔥 Firebase Configuration</summary>
 
 ```env
 NEXT_PUBLIC_FIREBASE_API_KEY=your_firebase_api_key
@@ -115,7 +111,7 @@ FIREBASE_CLIENT_EMAIL=your_firebase_client_email
 </details>
 
 <details>
-<summary> Other Configuration</summary>
+<summary>Other Configuration</summary>
 
 ```env
 GITHUB_TOKEN=your_github_token_here
@@ -123,56 +119,55 @@ GROQ_API_KEY=your_groq_api_key
 UPSTASH_REDIS_REST_TOKEN=your_upstash_redis_token
 UPSTASH_REDIS_REST_URL=your_upstash_redis_url
 ```
-
-> **Note:** The `GITHUB_TOKEN` is optional but recommended for higher API rate limits. You can get one from [GitHub Settings > Developer settings > Personal access tokens](https://github.com/settings/tokens).
+> **Note:** `GITHUB_TOKEN` is optional but recommended for higher API rate limits. [Get one here.](https://github.com/settings/tokens)
 </details>
 
-5. Start the development server:
+5. **Start the development server:**
 ```bash
 npm run dev
 ```
 
-Now, you can access Gut-Genius at `http://localhost:3000`.
+Visit [http://localhost:3000](http://localhost:3000) to use Git-Genius.
 
 ## User flow
 
 ### Login
-1. Navigate to the homepage and click on "Login with Google"
-2. Complete the Google authentication flow
-3. You'll be redirected to the dashboard upon successful login
+1. Go to the homepage and click "Login with Google"
+2. Complete the Google authentication
+3. You'll be redirected to your dashboard
 
 ### Using the README Generator
-1. From the dashboard, select "README Generator"
-2. Enter your project details (name, description, tech stack)
-3. Customize the sections you want to include
+1. Select "README Generator" from the dashboard
+2. Enter your project details
+3. Customize sections as needed
 4. Click "Generate README"
-5. Preview the generated README and make any needed adjustments
-6. Download the README or copy to clipboard
+5. Preview and adjust as needed
+6. Download or copy your README
 
 ### Using the AI Chat
-1. Navigate to the "AI Chat" section
-2. Type your question about Git or GitHub
-3. Receive instant AI-powered assistance
+1. Go to the "AI Chat" section
+2. Ask any Git or GitHub question
+3. Get instant, AI-powered help
 
 ### Using Gitmoji
-1. Go to the "Gitmoji" section from the dashboard
-2. Browse through available emojis categorized by commit type
-3. Click on an emoji to copy the corresponding code
-4. Use in your commit messages for semantic versioning
+1. Open the "Gitmoji" section
+2. Browse emojis by commit type
+3. Click to copy the emoji code
+4. Use in your commit messages
 
 ### Using the Repository Visualizer
-1. Navigate to the "Repository Visualizer" section
-2. Paste a GitHub repository URL or enter the owner/repo format
-3. Click "Visualize" to load the repository data
-4. Explore the repository using three different views:
-   - **Tree View**: Text-based file/folder structure
-   - **3D Graph**: Interactive 3D visualization of the repository structure
-   - **Statistics**: Detailed repository statistics and file type analysis
+1. Go to "Repository Visualizer"
+2. Enter a GitHub repo URL or owner/repo
+3. Click "Visualize" to load data
+4. Explore via:
+   - **Tree View**: File/folder structure
+   - **3D Graph**: Interactive visualization
+   - **Statistics**: Repo stats and file analysis
 
 ## Use Cases 📋
 
 ### For Open Source Contributors
-Use Gut-Genius to quickly generate professional READMEs for your open source projects, making them more accessible to potential contributors.
+Use Git-Genius to quickly generate professional READMEs for your open source projects, making them more accessible to potential contributors.
 
 ### For Team Leads
 Maintain consistency across your team's repositories by using standardized README templates and commit message practices with Gitmoji.
@@ -186,66 +181,55 @@ Streamline the process of creating and updating documentation with AI-powered RE
 
 # Contributing Guidelines
 
-Thank you for considering contributing to this project! To keep things organized and collaborative, please follow the steps below when contributing:
-
----
+Thank you for your interest in contributing to Git-Genius! To keep things organized and collaborative, please follow these steps:
 
 ## 🐛 Reporting Issues & Proposing Features
 
-Before starting any work, contributors **must raise an issue** and follow the issue template.
+Before starting any work, **raise an issue** and follow the template below.
 
 ### ✅ Issue Template
 
-When creating an issue, please include the following:
+- **Title**: Concise summary (e.g., `Fix broken login redirect`)
+- **Type**: Bug report / Feature request / Improvement
+- **Description**:
+  - What is the bug, error, or issue?
+  - Where did you encounter it?
+  - Any relevant logs, screenshots, or recordings?
+- **Proposed Solution**:
+  - How do you plan to fix or implement it?
+  - Any tools, libraries, or dependencies you intend to use?
 
-* **Title**: Concise summary (e.g., `Fix broken login redirect`)
-* **Type**: Bug report / Feature request / Improvement
-* **Description**:
-
-  * What is the bug, error, or issue?
-  * Where did you encounter it?
-  * Any relevant logs, screenshots, or screen recordings?
-* **Proposed Solution**:
-
-  * How do you plan to fix or implement it?
-  * Any tools, libraries, or dependencies you intend to use?
-
-Once the issue is created, a maintainer will review it.
-
----
+A maintainer will review your issue.
 
 ## 📝 Getting Assigned
 
 🚫 **Do NOT start working on any issue unless it has been assigned to you by a maintainer.**
 
 To get assigned:
-
-1. Raise a clear and descriptive issue using the template above.
+1. Raise a clear, descriptive issue using the template above.
 2. Comment: `I would like to work on this`.
-3. Wait for a maintainer to review and assign the issue to you.
+3. Wait for a maintainer to assign you.
 
 Only after assignment should you begin working on your contribution.
-
----
 
 ## 🔧 Development Workflow
 
 1. **Fork** this repository.
 2. **Clone** your fork locally:
-
    ```bash
-   git clone https://github.com/arunava-12/Gut-Genius.git
+   git clone https://github.com/arunava-12/Git-Genius.git
    cd your-repo-name
    ```
-3. Create a new branch:
-
+3. **Create a new branch:**
    ```bash
    git checkout -b fix/your-issue-title
    ```
-4. Make your changes with clear and meaningful commits.
-5. Ensure all tests and linters pass.
-6. Push your branch and open a Pull Request referencing the issue number.
+4. **Make your changes** with clear, meaningful commits.
+5. **Ensure all tests and linters pass.**
+6. **Push your branch and open a Pull Request** referencing the issue number.
 
 ---
 
-Thanks for helping improve this project! 🚀 and Feel free to ask questions by commenting on issues or reaching out directly on my  [mail](mailto:maharshikrishnakant@gmail.com)
+Thanks for helping improve Git-Genius! 🚀
+
+Feel free to ask questions by commenting on issues or reaching out via [email](mailto:arunavacr7@gmail.com)
