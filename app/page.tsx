@@ -279,28 +279,6 @@ export default function LandingPage() {
                 making version control intuitive and collaborative for
                 developers of all skill levels.
               </motion.p>
-
-              {/* Product Hunt Badge
-              <motion.div 
-                className="mt-8 flex justify-center"
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: 0.4, duration: 0.6 }}
-              >
-                <a 
-                  href="https://www.producthunt.com/posts/Gut-Genius?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-git&#0045;friend" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                >
-                  <img 
-                    src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=966948&theme=neutral&t=1747547887029" 
-                    alt="Git Genius - Make git simple again | Product Hunt" 
-                    style={{ width: "250px", height: "54px" }} 
-                    width="250" 
-                    height="54" 
-                  />
-                </a>
-              </motion.div> */}
             </motion.div>
 
             {/* AI Chatbot Interface */}
