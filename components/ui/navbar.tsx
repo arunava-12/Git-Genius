@@ -139,7 +139,7 @@ export function Navbar({ transparent = false }: { transparent?: boolean }) {
       >
         <div className="flex w-full flex-row items-center justify-between">
           <Link href="/" className="flex items-center">
-            <span className="font-bold text-lg">GitFriend</span>
+            <span className="font-bold text-lg">Git-Genius</span>
           </Link>
           <Button variant="ghost" size="icon" onClick={() => setIsOpen(!isOpen)} aria-label="Toggle menu">
             {isOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
