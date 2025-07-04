@@ -235,11 +235,11 @@ export default function LandingPage() {
       {/* Modern Navbar */}
       <Navbar />
 
-      <main className="flex-1 pt-16">
+      <main className="flex-1">
         {/* Hero Section */}
         <section
           ref={heroRef}
-          className="relative overflow-hidden py-20 md:py-32"
+          className="relative overflow-hidden py-20 md:py-40"
         >
           <motion.div
             className="absolute inset-0 -z-10"
