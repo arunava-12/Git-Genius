@@ -11,6 +11,10 @@
 Welcome to **Git-Genius**! 🎉
 Your AI-powered GitHub assistant, designed to make managing your repositories easier, smarter, and more efficient than ever before.
 
+<!-- Screenshot Preview -->
+<p align="center">
+  <img src="public/gitview.png" alt="Git-Genius Screenshot" width="700"/>
+</p>
 
 ## About 📚
 
