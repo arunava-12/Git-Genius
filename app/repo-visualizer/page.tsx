@@ -417,6 +417,42 @@ export default function RepoVisualizerPage() {
             </div>
           </>
         )}
+
+        <div
+  className="mt-40 p-8 border rounded-2xl bg-card/70 backdrop-blur-md shadow-xl max-w-3xl mx-auto"
+  style={{
+    backgroundImage:
+      "linear-gradient(to top left, hsl(var(--primary)/0.12) 0%, hsl(var(--secondary)/0.10) 100%)",
+    // You can tweak the opacity and hues as needed
+  }}
+>
+  <h2 className="text-xl font-bold mb-4 text-primary">How to Use the Repo Visualizer</h2>
+  <div className="space-y-4 text-muted-foreground">
+    <p>
+      The Repo Visualizer lets you quickly explore any public GitHub repository’s structure and key statistics in a beautiful, interactive way. Here’s how to get started:
+    </p>
+    <ol className="list-decimal list-inside space-y-2 pl-4">
+      <li>
+        <span className="font-medium text-foreground">Paste a GitHub URL</span> (like <span className="font-mono text-primary">https://github.com/owner/repo</span>) or enter <span className="font-mono text-primary">owner/repo</span> in the input box above.
+      </li>
+      <li>
+        <span className="font-medium text-foreground">Click <span className="text-primary">Visualize</span></span> to fetch and analyze the repository.
+      </li>
+      <li>
+        <span className="font-medium text-foreground">Switch between views</span> using the <span className="font-mono">Tree View</span>, <span className="font-mono">3D Graph</span>, and <span className="font-mono">Statistics</span> buttons.
+      </li>
+      <li>
+        <span className="font-medium text-foreground">Copy the repo URL</span> or <span className="font-medium">open it on GitHub</span> using the provided buttons.
+      </li>
+    </ol>
+    <div className="bg-muted/60 p-4 rounded-md">
+      <span className="font-semibold text-primary">Tip:</span> Try pasting a repo URL from your clipboard using the <span className="font-mono">🔗</span> button!
+    </div>
+    <p>
+      Supports public repositories. No authentication required.
+    </p>
+  </div>
+</div>
         </div>
       </div>
     </div>

@@ -389,7 +389,14 @@ export default function GitMojis() {
               ))}
             </Tabs>
 
-            <div className="mt-12 p-6 border rounded-lg bg-muted/30">
+            <div
+              className="mt-12 p-6 border rounded-2xl bg-muted/30"
+              style={{
+                backgroundImage:
+                  "linear-gradient(to top left, hsl(var(--primary)/0.10) 0%, hsl(var(--secondary)/0.08) 100%)",
+                // Soft hue gradient matching theme
+              }}
+            >
               <h2 className="text-xl font-bold mb-4">How to Use Git Mojis</h2>
               <div className="space-y-4">
                 <p>
