@@ -312,6 +312,16 @@
   color: white;
 }
 
+/* Hide scrollbar for all elements */
+* {
+  scrollbar-width: none;      /* Firefox */
+  -ms-overflow-style: none;   /* IE and Edge */
+}
+
+*::-webkit-scrollbar {
+  display: none;              /* Chrome, Safari, Opera */
+}
+
 /* Smooth transition for theme switching */
 .theme-suggestion-card,
 .theme-suggestion-card *,
