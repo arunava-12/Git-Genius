@@ -231,8 +231,4 @@ Only after assignment should you begin working on your contribution.
 
 Thanks for helping improve Git-Genius! 🚀
 
-<<<<<<< Updated upstream
 Feel free to ask questions by commenting on issues or reaching out via [email](mailto:arunavacr7@gmail.com)
-=======
-Feel free to ask questions by commenting on issues or reaching out via [email](mailto:arunavacr7@gmail.com)
->>>>>>> Stashed changes
